@@ -4,6 +4,7 @@ import org.junit.Test;
 
 public class testOption {
 
+	
 	@Test
 	public void test() {
 		Option op1 = new Option("Air Hall",200);
